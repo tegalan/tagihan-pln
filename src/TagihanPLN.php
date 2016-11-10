@@ -2,10 +2,15 @@
 
 class TagihanPLN {
 
+	const API_URL		= 'http://layanan.pln.co.id/ebill/FormInfoRekening/trans';
+	const REFERER_URL	= 'http://layanan.pln.co.id/ebill/';
+
 	private $id_pelanggan 	= 0;
 	private $bulan_tagihan	= 0;
 	private $tahun_tagihan	= 0;
 	private $result 		= array();
+
+
 
 	function __construct($idpel="") 
 	{
