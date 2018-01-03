@@ -1,8 +1,10 @@
+# DEPRECATED WARNING
+Fitur chek tagihan dari website resmi PLN sudah ditutup, jadi library ini sudah tidak bisa digunakan lagi. 
+
 # TagihanPLN Api
 [![Build Status](http://img.shields.io/packagist/v/showcheap/tagihan-pln.svg)](https://packagist.org/packages/showcheap/tagihan-pln)
 Tagihan PLN API Library
 
-Original Source Scraper [bachors/TagihanPLN.php](https://github.com/bachors/TagihanPLN.php)
 
 
 # Install 
